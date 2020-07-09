@@ -1,4 +1,42 @@
- /* Container holding the image and the text */
+img{
+    z-index: -1;
+}
+
+
+
+#carouselExampleControls{
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
+
 .Container {
   position: relative;
   text-align: center;
@@ -79,7 +117,8 @@ p {
 	margin: 50px;
 }
 body {
-	background-color: steelblue;
+	background: rgb(63,94,251);
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(3,5,27,1) 100%);
 	margin-top: 0px;
 	margin-right: 0px;
 	margin-left: 0px;
@@ -200,9 +239,11 @@ head {
 #nav ul li a:hover{
 	color: steelblue;
 	text-decoration:none;
+    
 }
 #nav ul li:hover ul{
 	display: block;
+    opacity: .9;
 	
 }
 #nav ul ul{
@@ -219,5 +260,6 @@ head {
 }
 #nav ul ul li a:hover{
 	color: steelblue;
+  
 }
 
