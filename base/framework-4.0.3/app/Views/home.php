@@ -22,7 +22,7 @@
 
 <!-- Div List -->
  <div class="Container">
-  <img src="images/Neebs Logo.jpg" alt="Snow" style="width:100%;">
+  <img src="Images/Neebs Logo.jpg" alt="Snow" style="width:100%;">
   
 </div> 
 
