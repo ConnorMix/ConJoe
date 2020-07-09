@@ -17,13 +17,13 @@
 <link rel="shortcut icon" type="image/x-icon" href="caption.png" />
 <link rel="stylesheet" media="screen and (min-width: 900px)" href="SemiSmallScreen.css">
 <link rel="stylesheet" media="screen and (max-width: 600px)" href="smallscreen.css"> 
-
+<link rel="stylesheet" href="/base/framework-4.0.3/app/Views/home.css"> 
 </head>
 <body>
 
 <!-- Div List -->
  <div class="Container">
-  <img src="Neebs Logo.jpg" alt="Snow" style="width:100%;">
+  <img src="/base/framework-4.0.3/app/Views/Images/Neebs Logo.jpg" alt="Snow" style="width:100%;">
   
 </div> 
 
@@ -45,13 +45,13 @@
 
 	<li><a href="Main Page.html">Home</a></li>
 	
-	<li><a href="#">Servers<img src="arrow.png"></a>
+	<li><a href="#">Servers<img src="/base/framework-4.0.3/app/Views/Images/arrow.png"></a>
 	
 	<ul>
-	<li><a href="Conan.html">PC Conan Exile</a></li>
-	<li><a href="Ark.html">PC Ark Survival Evolved</a></li>
-	<li><a href="7dtd.html">PC 7 Days To Die</a></li>
-	<li><a href="Minecraft.html">PC Minecraft(Java)</a></li>
+	<li><a href="Conan.html">PC Conan Exile</a></li><br>
+	<li><a href="Ark.html">PC Ark Survival Evolved</a></li><br>
+	<li><a href="7dtd.html">PC 7 Days To Die</a></li><br>
+	<li><a href="Minecraft.html">PC Minecraft(Java)</a></li><br>
 	<li><a href="PS4Ark.html">PS4 Ark Survival Evolved</a></li>
 	</ul>
         
@@ -63,24 +63,29 @@
 
 <!-- This is where everything below the TABS begin -->
 
- 
+ <section width="20%" backgroud-color="black">
+    <h3> Staff team</h3>
+    
+</section>
 
  
 
- 
+
+<!--
  <div class = "AdminScroll">
   <h3><div class = "ListH">Staff Team</div></h3>
- <div class = "SA"><h4>Server Admins</h4></div>
- <div class = "hr1" align="center"><hr/></div>
+ <div class = "SA"><h4>Server Admins</h4></div><br>
+ <div class = "hr1" ><hr/></div>
  
  <ol>
- <li>Androtar</li>
- <li>JiBi</li>
+ <li>Androtar</li><br>
+ <li>JiBi</li><br>
  </ol>
  <h4><div class = "7days"> 7 days Admins</div></h4>
  <div class = "hr2"><hr/></div>
  </div>
  
+-->
 
  
  
