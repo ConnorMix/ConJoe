@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="">
+<html lang="en">
 
 <head>
     <meta charset="utf-8">
@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="">
     <link rel="icon" type="image/x-icon" href="" />
-    <link rel="stylesheet" href="/base/framework-4.0.3/app/Views/Login.css">
+    <link rel="stylesheet" href="Login.css">
 
 </head>
 
@@ -23,7 +23,7 @@
         <div id="nav_wrapper">
             <ul>
                 <li><a href="Main Page.html">Home</a></li>
-                <li><a href="#">Servers<img src="/base/framework-4.0.3/app/Views/Images/arrow.png"></a>
+                <li><a href="#">Servers<img src="Images/arrow.png"></a>
                     <ul>
                         <li><a href="Conan.html">PC Conan Exile</a></li><br>
                         <li><a href="Ark.html">PC Ark Survival Evolved</a></li><br>
