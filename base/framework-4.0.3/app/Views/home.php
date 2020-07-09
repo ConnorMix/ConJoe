@@ -12,8 +12,7 @@
 <title>Neebs Family Community Home Page</title>
 <!-- Title is on the Tab of the webpage -->
 <script type="text/javascript" src="StyleScripts/Javascript.js"></script>
-<link href="StyleScripts/style.css" rel="stylesheet" type="text/css" />
-<link href="StyleScripts/StyleBottom.css" rel="stylesheet" type="text/css" />
+<link href="home.css" rel="stylesheet" type="text/css" />
 <link rel="shortcut icon" type="image/x-icon" href="caption.png" />
 <link rel="stylesheet" media="screen and (min-width: 900px)" href="SemiSmallScreen.css">
 <link rel="stylesheet" media="screen and (max-width: 600px)" href="smallscreen.css"> 
