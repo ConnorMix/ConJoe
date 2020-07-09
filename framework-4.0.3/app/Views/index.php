@@ -12,7 +12,7 @@
 <title>Neebs Family Community Home Page</title>
 <!-- Title is on the Tab of the webpage -->
 <script type="text/javascript" src="StyleScripts/Javascript.js"></script>
-<link href="home.css" rel="stylesheet" type="text/css" />
+<link href="index.css" rel="stylesheet" type="text/css" />
 <link rel="shortcut icon" type="image/x-icon" href="caption.png" />
 <link rel="stylesheet" media="screen and (min-width: 900px)" href="SemiSmallScreen.css">
 <link rel="stylesheet" media="screen and (max-width: 600px)" href="smallscreen.css"> 
@@ -22,7 +22,7 @@
 
 <!-- Div List -->
  <div class="Container">
-  <img src="Images/.../Neebs Logo.jpg" alt="Snow" style="width:100%;">
+  <img src="Images//Neebs Logo.jpg" alt="Snow" style="width:100%;">
   
 </div> 
 
@@ -44,7 +44,7 @@
 
 	<li><a href="Main Page.html">Home</a></li>
 	
-	<li><a href="#">Servers<img src="Images/.../arrow.png"></a>
+	<li><a href="#">Servers<img src="Images/arrow.png"></a>
 	
 	<ul>
 	<li><a href="Conan.html">PC Conan Exile</a></li>
